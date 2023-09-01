@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64d10fa0c654b2e47835e74413e8147d, type: 3}
+  m_Name: loc1
+  m_EditorClassIdentifier: 
+  dataName: "\u0414\u0430\u043B\u0451\u043A\u0438\u0435 \u0433\u043E\u0440\u044B"
+  description: "\u0411\u043B\u0430-\u0431\u043B\u0430-\u0431\u043B\u0430\n123\nHello
+    World!"
+  image: {fileID: 21300000, guid: e6a6c8447a494914c970a3e8d2dc7c12, type: 3}
+  sceneID: 1
