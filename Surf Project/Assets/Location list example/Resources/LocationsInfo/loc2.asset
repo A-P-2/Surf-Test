@@ -10,10 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: aae88500400aa964dbafbb49e16020fe, type: 3}
-  m_Name: loc1
+  m_Name: loc2
   m_EditorClassIdentifier: 
-  dataName: "\u0414\u0430\u043B\u0451\u043A\u0438\u0435 \u0433\u043E\u0440\u044B"
-  description: "\u0411\u043B\u0430-\u0431\u043B\u0430-\u0431\u043B\u0430\n123\nHello
-    world!"
-  image: {fileID: 21300000, guid: 9df360e30230d0c429a252694c34657d, type: 3}
-  sceneID: 1
+  dataName: "\u041E\u0437\u0435\u0440\u043E \u0432 \u0433\u043E\u0440\u0430\u0445"
+  description: 321
+  image: {fileID: 21300000, guid: deb676db7608bc04eaea9c33ac607155, type: 3}
+  sceneID: 2

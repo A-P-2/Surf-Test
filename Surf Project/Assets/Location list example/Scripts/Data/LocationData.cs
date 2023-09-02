@@ -15,6 +15,6 @@ public class LocationData : BasicData
     public override void Interact()
     {
         //SceneManager.LoadScene(SceneID);
-        Debug.Log($"Запуск сцены {dataName}");
+        Debug.Log($"Запуск сцены №{sceneID}");
     }
 }
