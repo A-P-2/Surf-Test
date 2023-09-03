@@ -11,6 +11,8 @@ public class DataManager : ScriptableObject
 
     public Queue<string> GetListOfNames()
     {
+        dataFileNames.Clear();
+
         Queue<string> dataNames = new Queue<string>();
         BasicData[] datas = Resources.LoadAll<BasicData>(dataPath);
 

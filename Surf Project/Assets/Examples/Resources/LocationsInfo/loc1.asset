@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aae88500400aa964dbafbb49e16020fe, type: 3}
   m_Name: loc1
   m_EditorClassIdentifier: 
-  dataName: "\u0414\u0430\u043B\u0451\u043A\u0438\u0435 \u0433\u043E\u0440\u044B"
+  dataName: "\u0414\u0430\u043B\u044C\u043D\u0438\u0435 \u0433\u043E\u0440\u044B"
   description: 123
   image: {fileID: 21300000, guid: 9df360e30230d0c429a252694c34657d, type: 3}
   sceneID: 1
