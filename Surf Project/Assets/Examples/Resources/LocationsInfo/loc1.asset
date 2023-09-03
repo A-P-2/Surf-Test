@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: loc1
   m_EditorClassIdentifier: 
   dataName: "\u0414\u0430\u043B\u044C\u043D\u0438\u0435 \u0433\u043E\u0440\u044B"
-  description: 123
+  description: "\u0411\u043B\u0430-\u0431\u043B\u0430-\u0431\u043B\u0430\n123\nZxcvbnm"
   image: {fileID: 21300000, guid: 9df360e30230d0c429a252694c34657d, type: 3}
   sceneID: 1

@@ -13,6 +13,12 @@ MonoBehaviour:
   m_Name: loc3
   m_EditorClassIdentifier: 
   dataName: "\u041E\u043F\u0430\u0441\u043D\u044B\u0439 \u043B\u0435\u0441"
-  description: 000
+  description: "\u0411\u043E\u043B\u044C\u0448\u043E\u0435 \u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435:\nQwerty
+    qwerty qwerty qwerty qwerty qwerty qwerty qwerty qwerty qwerty qwerty qwerty
+    qwerty qwerty qwerty qwerty qwerty qwerty qwerty qwerty qwerty\n\nQwerty qwerty
+    qwerty qwerty qwerty qwerty qwerty qwerty qwerty qwerty qwerty qwerty qwerty
+    qwerty qwerty qwerty qwerty qwerty qwerty qwerty qwerty\n\nQwerty qwerty qwerty
+    qwerty qwerty qwerty qwerty qwerty qwerty qwerty qwerty qwerty qwerty qwerty
+    qwerty qwerty qwerty qwerty qwerty qwerty qwerty"
   image: {fileID: 21300000, guid: 54cfb6937c81ecc4ea6075204c69d9df, type: 3}
   sceneID: 3
